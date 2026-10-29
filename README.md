@@ -109,4 +109,6 @@ python -m dpicleaner                       # GUI
 python -m dpicleaner reality --link 'vless://...' --names a.com,b.com
 ```
 
-**نکته:** درخواست‌های خارجی فقط crt.sh، api.github.com و speed.cloudflare.com — بدون هیچ telemetry.
+## Support
+
+- 💬 Telegram: [@master_supports](https://t.me/master_supports)
